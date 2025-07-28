@@ -102,3 +102,4 @@ Proje FastAPI backend ve React frontend'den oluşur. Backend SQLite veritabanı 
 
 
 # grispi_contacts_importer
+# grispi_contacts_importer
