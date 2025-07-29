@@ -96,11 +96,4 @@ npm start
 
 ## Geliştirme
 
-Proje FastAPI backend ve React frontend'den oluşur. Backend SQLite veritabanı kullanır ve REST API sağlar. Frontend modern React hooks ve Tailwind CSS ile geliştirilmiştir.
-
-
-
-
-# grispi_contacts_importer
-# grispi_contacts_importer
-# grispi_contacts_importer
+Proje FastAPI backend ve React frontend'den oluşur. Backend SQLite veri tabanı kullanır ve REST API sağlar. Frontend modern React hooks ve Tailwind CSS ile geliştirilmiştir.
