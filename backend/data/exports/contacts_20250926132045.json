@@ -1,0 +1,182 @@
+[
+    {
+        "first_name": "Ad1",
+        "last_name": "Soyad1",
+        "email": "ad1@example.com",
+        "phone": "+905320000001",
+        "company": "SirketA",
+        "title": "UnvanA",
+        "notes": "NotA"
+    },
+    {
+        "first_name": "Ad2",
+        "last_name": "Soyad2",
+        "email": "ad2@example.com",
+        "phone": "+905320000002",
+        "company": "SirketB",
+        "title": "UnvanB",
+        "notes": "NotB"
+    },
+    {
+        "first_name": "Ad3",
+        "last_name": "Soyad3",
+        "email": "ad3@example.com",
+        "phone": "+905320000003",
+        "company": "SirketC",
+        "title": "UnvanC",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad4",
+        "last_name": "Soyad4",
+        "email": "ad4@example.com",
+        "phone": "+905320000004",
+        "company": "SirketD",
+        "title": "UnvanD",
+        "notes": "NotD"
+    },
+    {
+        "first_name": "Ad5",
+        "last_name": "Soyad5",
+        "email": "ad5@example.com",
+        "phone": "+905320000005",
+        "company": "SirketE",
+        "title": "UnvanE",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad6",
+        "last_name": "Soyad6",
+        "email": "ad6@example.com",
+        "phone": "+905320000006",
+        "company": "SirketF",
+        "title": "UnvanF",
+        "notes": "NotF"
+    },
+    {
+        "first_name": "Ad7",
+        "last_name": "Soyad7",
+        "email": "ad7@example.com",
+        "phone": "+905320000007",
+        "company": "SirketG",
+        "title": "UnvanG",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad8",
+        "last_name": "Soyad8",
+        "email": "ad8@example.com",
+        "phone": "+905320000008",
+        "company": "SirketH",
+        "title": "UnvanH",
+        "notes": "NotH"
+    },
+    {
+        "first_name": "Ad9",
+        "last_name": "Soyad9",
+        "email": "ad9@example.com",
+        "phone": "+905320000009",
+        "company": "SirketI",
+        "title": "UnvanI",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad10",
+        "last_name": "Soyad10",
+        "email": "ad10@example.com",
+        "phone": "+905320000010",
+        "company": "SirketJ",
+        "title": "UnvanJ",
+        "notes": "NotJ"
+    },
+    {
+        "first_name": "Ad11",
+        "last_name": "Soyad11",
+        "email": "ad11@example.com",
+        "phone": "+905320000011",
+        "company": "SirketK",
+        "title": "UnvanK",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad12",
+        "last_name": "Soyad12",
+        "email": "ad12@example.com",
+        "phone": "+905320000012",
+        "company": "SirketL",
+        "title": "UnvanL",
+        "notes": "NotL"
+    },
+    {
+        "first_name": "Ad13",
+        "last_name": "Soyad13",
+        "email": "ad13@example.com",
+        "phone": "+905320000013",
+        "company": "SirketM",
+        "title": "UnvanM",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad14",
+        "last_name": "Soyad14",
+        "email": "ad14@example.com",
+        "phone": "+905320000014",
+        "company": "SirketN",
+        "title": "UnvanN",
+        "notes": "NotN"
+    },
+    {
+        "first_name": "Ad15",
+        "last_name": "Soyad15",
+        "email": "ad15@example.com",
+        "phone": "+905320000015",
+        "company": "SirketO",
+        "title": "UnvanO",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad16",
+        "last_name": "Soyad16",
+        "email": "ad16@example.com",
+        "phone": "+905320000016",
+        "company": "SirketP",
+        "title": "UnvanP",
+        "notes": "NotP"
+    },
+    {
+        "first_name": "Ad17",
+        "last_name": "Soyad17",
+        "email": "ad17@example.com",
+        "phone": "+905320000017",
+        "company": "SirketQ",
+        "title": "UnvanQ",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad18",
+        "last_name": "Soyad18",
+        "email": "ad18@example.com",
+        "phone": "+905320000018",
+        "company": "SirketR",
+        "title": "UnvanR",
+        "notes": "NotR"
+    },
+    {
+        "first_name": "Ad19",
+        "last_name": "Soyad19",
+        "email": "ad19@example.com",
+        "phone": "+905320000019",
+        "company": "SirketS",
+        "title": "UnvanS",
+        "notes": ""
+    },
+    {
+        "first_name": "Ad20",
+        "last_name": "Soyad20",
+        "email": "ad20@example.com",
+        "phone": "+905320000020",
+        "company": "SirketT",
+        "title": "UnvanT",
+        "notes": "NotT"
+    }
+]
