@@ -84,8 +84,3 @@ npm start
 | `/jobs/{job_id}`     | GET    | Import job durum/özet bilgisi                                |
 | `/contacts`          | GET    | İçeri aktarılan kontakları listeleme                         |
 
-
-
-
-
-# grispi_contacts_importer
